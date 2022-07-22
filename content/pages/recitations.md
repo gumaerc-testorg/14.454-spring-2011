@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of recitation topics along with notes
+  from each recitation session.
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 21aaa3f1-0bcb-1d0c-ba98-26e876036c7d
 ---
@@ -28,7 +33,7 @@ NOTES
 Debt contracts, renegotiation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_rec1))
+({{% resource_link ca1a306e-282b-b281-2fc0-2778b58b5460 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ Debt contracts, renegotiation
 Liquidity, bond markets, social optimum
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_rec2))
+({{% resource_link 64a374b8-1130-cb77-8bc4-bd852a5d2e95 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Liquidity, bond markets, social optimum
 Bubbles: model, equilibrium, portfolio decisions
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_rec3))
+({{% resource_link 87c4b3ec-d28c-0ff3-24e1-4a48cf76a83d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +69,7 @@ Bubbles: model, equilibrium, portfolio decisions
 Rational expectations equilibria, static and dynamic
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_rec4))
+({{% resource_link f23e0fad-7a55-d09b-609b-7f5e0380da63 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
