@@ -5,6 +5,7 @@ file: /courses/14-454-economic-crises-spring-2011/10a06c3df878bf25dd5e78e5be76e2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT14_454S11_hw1_sol.pdf
 uid: 10a06c3d-f878-bf25-dd5e-78e5be76e2bf
 ---
 This resource contains the solution of problem set 1 of this course.
-
