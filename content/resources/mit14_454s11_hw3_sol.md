@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the solution of problem set 3 of this course.
-file: /ol-ocw-studio-app/courses/14-454-economic-crises-spring-2011/9053bacdd29aac978c5e5623b34a3edd_MIT14_454S11_hw3_sol.pdf
+file: /courses/14-454-economic-crises-spring-2011/9053bacdd29aac978c5e5623b34a3edd_MIT14_454S11_hw3_sol.pdf
 file_size: 180546
 file_type: application/pdf
 learning_resource_types:
